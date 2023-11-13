@@ -1,0 +1,73 @@
+.main-div{
+  width: 70%;
+  height: 500px;
+  margin: 10px auto;
+opacity: 0.7;
+box-shadow: 5px 5px 30px  black;
+margin-top: 50px;
+}
+.main-div h1{
+  margin: -10px 370px;
+  transition: 5ms;
+  color: purple;
+}
+ input{
+  width: 400px;
+  height: 40px;
+  border-radius: 10px;
+  border: none;
+  outline: none;
+  margin-left: 120px;  
+  background-color: aquamarine;
+}
+form{
+  display: flex;
+  justify-content: center;
+  
+
+}
+.btn-submit{
+  width: 110px;
+  height: 48px;
+  border-radius: 10px;
+  border: none;
+background-color: white;
+}
+.btn-submit img{
+  width: 100px;
+  height: 45px;
+  border-radius: 100px;
+  border: none;
+margin-left: 20px; 
+}
+.dltall{
+ position: relative;
+ top: 45px;
+ left: 140px;
+ width: 80px;
+ height: 40px;
+ border-radius: 100px;
+ border: none;
+}
+.fun-div{
+  display: flex;
+  flex-direction: row;
+}
+.fun-div p{
+ font-size: 28px; 
+}
+.img-image{
+  width: 40px;
+  background:none;
+  height: 30px;
+  margin: -7px 10px;
+  }
+  .item-container {
+    height: 300px; 
+    overflow-y: auto;
+  }
+  
+
+
+
+
